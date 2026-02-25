@@ -3,3 +3,4 @@ Abacaxi
 banana
 uva
 pitaia
+morango
